@@ -39,8 +39,8 @@ __A-level__
 
 ## Навички
 
-- __Мови програмування__: Python, SQL
-	- __Базові знання__: C++, JavaScript, MATLAB, Django
+- __Мови програмування__: Python(Django), SQL
+	- __Базові знання__: C++, JavaScript, MATLAB
 
 - __Інструменти та технології__: Git, HTML, CSS, Linux, MySQL, PostgreSQL, RaspberryPI, Google search, AutoCAD, MicrosoftOffice
 
