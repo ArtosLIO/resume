@@ -25,6 +25,9 @@ __A-level__
 
 ## Проекти
 
+- Інтернет магазин. Веб сайт на основі Django.
+	- [_Посилання на GitHub_][moduldjango]
+
 - Гра на зразок "Камінь-ножиці-бумага". Програма побудована на ООП моделях. Результати записуються і виводиться 10 найкращих гравців.
 	- [_Посилання на GitHub_][game] 
 
@@ -54,6 +57,7 @@ __A-level__
 
 
 
+[moduldjango]: https://github.com/ArtosLIO/DjangoModul
 [game]: https://github.com/ArtosLIO/OOP_Modul
 [smarthome1]: https://github.com/ArtosLIO/SmartHomeK/blob/master/_SystemSmartHome.py
 [smarthome2]: https://github.com/ArtosLIO/SmartHomeBigProject
